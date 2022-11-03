@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Full [CV here](https://github.com/nimadehmamy/files/CV_20221101_NDehmamy.pdf)  
+Full [CV here](https://nimadehmamy.github.io/files/CV_20221101_NDehmamy.pdf)  
 
 Education
 ======
