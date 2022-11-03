@@ -1,9 +1,9 @@
 ---
 title: "Automatic Symmetry Discovery with Lie Algebra Convolutional Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/2021-12-01-lconv-for-automatic-symmetry-discovery
+excerpt: 'We introduce the L-conv layer, a basic building block for Lie group equivariant layers.'
+date: 2021-12-01
 venue: 'NeurIPS 2021'
 paperurl: 'http://academicpages.github.io/files/L-conv.pdf'
 citation: 'Dehmamy, N., Walters, R., Liu, Y., Wang, D., & Yu, R. (2021). &quot;Automatic Symmetry Discovery with Lie Algebra Convolutional Network&quot;. <i>Advances in Neural Information Processing Systems</i>, 34, 2503-2515.'
