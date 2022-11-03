@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Automatic Symmetry Discovery with Lie Algebra Convolutional Networks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'NeurIPS 2021'
+paperurl: 'http://academicpages.github.io/files/L-conv.pdf'
+citation: 'Dehmamy, N., Walters, R., Liu, Y., Wang, D., & Yu, R. (2021). &quot;Automatic Symmetry Discovery with Lie Algebra Convolutional Network&quot;. <i>Advances in Neural Information Processing Systems</i>, 34, 2503-2515.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We introduce a new equivariant neural network architecture, the Lie algebra convolutional layer or L-conv. 
+It is based on infinitesimal generators of continuous Lie groups. 
+We show that L-conv can approximate any group convolutional layer encoding continuous symmetries. 
+[arXiv link](https://arxiv.org/pdf/2109.07103.pdf), 
+[NeutIPS link](https://proceedings.neurips.cc/paper/2021/file/148148d62be67e0916a833931bd32b26-Paper.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Dehmamy, N., Walters, R., Liu, Y., Wang, D., & Yu, R. (2021). "Automatic Symmetry Discovery with Lie Algebra Convolutional Network". <i>Advances in Neural Information Processing Systems</i>, 34, 2503-2515.
